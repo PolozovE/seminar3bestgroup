@@ -36,4 +36,4 @@ git checkout master **Перемещенние к актуальному сос�
 
 ![Жизненый цикл](https://fuzeservers.ru/wp-content/uploads/4/6/3/46359fd61ed64dd88ebcbb873c291c8a.jpeg "Жизненный цикл")
 
-thirdbranch
+For more [Information]( https://git.wiki.kernel.org/index.php/Git_FAQ "Information")
