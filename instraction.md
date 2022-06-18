@@ -30,3 +30,6 @@ git diff **Вывод изменений в сравнении с предыду
 git checkout #№ **Перемещение к определённому коммиту**
 
 git checkout master **Перемещенние к актуальному состоянию**
+
+> Project hosting used to be painful, and with Git and GitHub it’s just so trivial to do a random small project. It doesn’t matter what the project is; what matters is that you can do it.
+> -Linus Torvalds
