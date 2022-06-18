@@ -33,3 +33,5 @@ git checkout master **Перемещенние к актуальному сос�
 
 > Project hosting used to be painful, and with Git and GitHub it’s just so trivial to do a random small project. It doesn’t matter what the project is; what matters is that you can do it.
 > -Linus Torvalds
+
+![Жизненый цикл](https://fuzeservers.ru/wp-content/uploads/4/6/3/46359fd61ed64dd88ebcbb873c291c8a.jpeg "Жизненный цикл")
